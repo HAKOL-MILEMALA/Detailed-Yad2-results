@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==/UserScript==
 // @name         יד2 - סינון סוכנויות, הוספת מפות ושליפת נתונים
 // @namespace    http://tampermonkey.net/
 // @version      2.8
