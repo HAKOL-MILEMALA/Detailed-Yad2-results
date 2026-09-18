@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         יד2 - סינון סוכנויות, הוספת מפות ושליפת נתונים
 // @namespace    http://tampermonkey.net/
-// @version      2.8
+// @version      2.9
 // @description  מערכת סינון חכמה, שליפת נתונים עם מטמון מתקדם, חיווי טעינה וקישור למפות
 // @author       HAKOL-MILEMALA
 // @match        *://www.yad2.co.il/vehicles/*
