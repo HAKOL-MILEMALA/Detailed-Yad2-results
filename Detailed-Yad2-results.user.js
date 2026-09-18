@@ -1,4 +1,4 @@
-// ==/UserScript==
+// ==UserScript==
 // @name         יד2 - סינון סוכנויות, הוספת מפות ושליפת נתונים
 // @namespace    http://tampermonkey.net/
 // @version      2.8
@@ -9,7 +9,7 @@
 // @updateURL    https://raw.githubusercontent.com/HAKOL-MILEMALA/Detailed-Yad2-results/main/Detailed-Yad2-results.user.js
 // @downloadURL  https://raw.githubusercontent.com/HAKOL-MILEMALA/Detailed-Yad2-results/main/Detailed-Yad2-results.user.js
 // @grant        none
-// ==UserScript==
+// ==/UserScript==
 
 (function() {
     'use strict';
